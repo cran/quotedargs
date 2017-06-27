@@ -1,0 +1,8 @@
+42afe195398f05674c1d8a419f1905db *DESCRIPTION
+ce156caa3c71871325d06db7ab4ef96b *NAMESPACE
+48a44666bc641cc18338a8d696cce0e1 *NEWS
+25eaf338fc5f81f84c84e3d28a7d9c4d *R/quotedargs.R
+90903b3c8f0e4187f639a0bc6b7e4346 *man/quotedargs.Rd
+9400b655ecc5e6c283c653b653d98e5d *src/quotedargs.c
+c0cd3bf5c21a9a2bb323c05956eeef44 *tests/Examples/quotedargs-Ex.Rout.save
+e79c94282b547f5b6a052ec4bf707e68 *tests/tests.R
